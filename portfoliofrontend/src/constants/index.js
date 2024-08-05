@@ -3,9 +3,9 @@ import project2 from '../assets/projects/project-2.jpg'
 import project3 from '../assets/projects/project-3.jpg'
 import project4 from '../assets/projects/project-4.jpg'
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 4 years of hands-on experience, I have honed my skills in front-end technologies like React and Javascript, as well as back-end technologies like PhP, Laravel, and MySQL. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`
+export const HERO_CONTENT = `I am a dedicated full-stack developer with four years of experience in crafting robust and scalable web applications. My expertise spans both front-end technologies, including React and JavaScript, and back-end development utilizing PHP, Laravel, and MySQL. I am committed to delivering exceptional user experiences and driving business growth through innovative solutions.`
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 4 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`
+export const ABOUT_TEXT = `I'm a results-oriented full-stack developer with four years of experience building robust web applications. Proficient in React, JavaScript, PHP, Laravel, and MySQL, I excel at crafting user-centric solutions. My passion for problem-solving and continuous learning drives me to deliver exceptional results. Outside of development, I enjoy strategic thinking through the game of chess and exploring emerging technologies online.`
 
 export const EXPERIENCES = [
   {
