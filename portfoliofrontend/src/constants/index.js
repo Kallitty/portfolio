@@ -3,7 +3,7 @@ import project2 from '../assets/projects/project-2.jpg'
 import project3 from '../assets/projects/project-3.jpg'
 import project4 from '../assets/projects/project-4.jpg'
 
-export const HERO_CONTENT = `I am a dedicated full-stack developer with four years of experience in crafting robust and scalable web applications. My expertise spans both front-end technologies, including React and JavaScript, and back-end development utilizing PHP, Laravel, and MySQL. I am committed to delivering exceptional user experiences and driving business growth through innovative solutions.`
+export const HERO_CONTENT = `I am a dedicated full-stack developer with four years of experience in crafting robust and scalable web applications. My expertise spans both front-end technologies, including React and JavaScript, and back-end development utilizing PHP, Laravel, and MySQL. Over the past seven months, I have been expanding my skills by learning Python and generative artificial intelligence. I am committed to delivering exceptional user experiences and driving business growth through innovative solutions.`
 
 export const ABOUT_TEXT = `I'm a results-oriented full-stack developer with four years of experience building robust web applications. Proficient in React, JavaScript, PHP, Laravel, and MySQL, I excel at crafting user-centric solutions. My passion for problem-solving and continuous learning drives me to deliver exceptional results. Outside of development, I enjoy strategic thinking through the game of chess and exploring emerging technologies online. 
 
@@ -50,7 +50,7 @@ export const PROJECTS = [
     title: 'Exam Management App',
     image: project2,
     description:
-      'SEPP stands as a state-of-the-art application crafted to empower users on their path to academic excellence. The SEPP project, from its description, presents a fascinating challenge that blends the power of modern web technologies such as Laravel, JavaScript, and React to deliver a comprehensive and interactive platform for exam preparation. Sepp offers many trials to an Exam before the main Exam..',
+      'SEPP stands as a state-of-the-art application crafted to empower users on their path to professional and or academic excellence. The SEPP project, from its description, presents a fascinating challenge that blends the power of modern web technologies such as Laravel, JavaScript, and React to deliver a comprehensive and interactive platform for exam preparation. Sepp offers many trials to an Exam before the main Exam.',
     technologies: ['HTML', 'CSS', 'React', 'Javascript', 'Laravel', 'Php'],
   },
   {
